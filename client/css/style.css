@@ -1,0 +1,95 @@
+.tournament-content{
+    border-radius: 0;
+    box-shadow: 3px 3px #dcd5d56e;
+    min-height: 170px;
+    margin-bottom: 10px;
+    position: relative;
+}
+.tournament-detail-content{
+    border-radius: 0;
+    box-shadow: 3px 3px 3px 3px #dcd5d56e;
+    min-height: 170px;
+    margin-top: 60px;
+    padding-top: 40px;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.right-bottom-abs{
+    position: absolute;
+    bottom: 15px;
+    right: 15px;
+}
+.detail-btn{
+    border-radius: 0;
+    background: #2ecc71;
+    border: 1px solid #2ecc71;
+    padding: 8px;
+    font-weight: 600;
+}
+.detail-btn:hover{
+    background: #2ecc71 !important;
+    border: 1px solid #2ecc71 !important;
+}
+.detail-btn:focus{
+    box-shadow: 0 0 0 0.2rem rgb(46,204,113) !important;
+}
+.tournaments-container{
+    padding-top: 30px;
+    float: left;
+}
+.home{
+    max-width: 100%;
+}
+.filters-container{
+    padding-top: 30px;
+    min-height: 100%;
+}
+.filters-content{
+    padding-top: 45px;
+    min-height: 100%;
+    height: 300px;
+    background: #f2f2f2;
+    text-align: center;
+    font-weight: 600;
+}
+.dropdown-btn #dropdown-item-button{
+    width: 140px;
+    background: #fff !important;
+    color: #212529 !important;
+    border: 2px solid #212529 !important;
+    border-radius: 0;
+}
+.dropdown-btn #dropdown-item-button:hover{
+    background: #fff !important;
+    color: #212529 !important;
+}
+.dropdown-btn #dropdown-item-button:focus{
+    border: 1px solid #212529 !important;
+    box-shadow: 0 0 0 0.1rem rgb(33,37,41) !important;
+}
+.control-container div{
+    float: left;
+    margin-bottom: 25px;
+}
+.error-text{
+    color: red;
+}
+.filter-btn{
+    position: absolute;
+}
+.display-block{
+    display: block !important;
+}
+.tournament-date{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.menu-bar{
+    background: #2ECC71 !important;
+    box-shadow: none !important;
+    height: 90px !important;
+    padding: 20px;
+}
+.menu-bar a{
+    color: white !important;
+}
